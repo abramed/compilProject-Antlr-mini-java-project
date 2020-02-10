@@ -1,0 +1,13 @@
+
+import Small_Java.lang;
+public class_SJ Faiz
+{
+int_SJ faiz,test;
+int_SJ x;
+string_SJ walid;
+int_SJ faiz3;
+main_SJ {
+si (x=0) alors { test:=1;
+}
+}
+}
